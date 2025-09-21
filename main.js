@@ -1206,7 +1206,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var environment = {
     production: false,
-    baseUrl: "https://api.tuyenbq.site",
+    baseUrl: "https://api.backroom.khanhnm-dev.com",
 };
 /*
  * For easier debugging in development mode, you can import the following file
@@ -1255,7 +1255,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/tuyenbq/Desktop/Work/outsource/AnhQuan/voicechat-admin-backend-master 2/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\Admin\Downloads\Telegram Desktop\voicechat-admin-backend-master 2\voicechat-admin-backend-master 2\src\main.ts */"./src/main.ts");
 
 
 /***/ }),

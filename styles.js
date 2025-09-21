@@ -376,8 +376,8 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/tuyenbq/Desktop/Work/outsource/AnhQuan/voicechat-admin-backend-master 2/src/styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! /Users/tuyenbq/Desktop/Work/outsource/AnhQuan/voicechat-admin-backend-master 2/node_modules/ngx-toastr/toastr.css */"./node_modules/ngx-toastr/toastr.css");
+__webpack_require__(/*! C:\Users\Admin\Downloads\Telegram Desktop\voicechat-admin-backend-master 2\voicechat-admin-backend-master 2\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\Admin\Downloads\Telegram Desktop\voicechat-admin-backend-master 2\voicechat-admin-backend-master 2\node_modules\ngx-toastr\toastr.css */"./node_modules/ngx-toastr/toastr.css");
 
 
 /***/ })
